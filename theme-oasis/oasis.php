@@ -1,0 +1,63 @@
+<?php
+
+return [
+    'header' => [
+        'online' => 'Онлайн: :count |Онлайн: :count ',
+        'offline' => 'Сервер в настоящее время оффлайн',
+        'shop' => 'Популярные статьи',
+    ],
+    'clipboard' => [
+        'copied' => 'Скопировано!',
+        'error' => 'CTRL + C to copy',
+    ],
+    'home' => [
+        'discord' => '<span class="count">:count</span> участников онлайн',
+    ],
+    'footer' => [
+        'about' => 'О нас',
+        'links' => 'Дополнительно',
+        'social' => 'Social',
+        'rights' => 'Все права защищены',
+        'azuriom_copyright' => 'Работает на',
+        'rqmain_copyright' => 'Тема создана',
+    ],
+    'config' => [
+        'maintenance_date' => 'Дата окончания тех. обслуживания : MM/DD/YYYY',
+        'use_play_button' => 'Добавьте кнопку "play" и спрятать IP сервера',
+        'windows_link' => 'Ссылка на лаунчер для Windows',
+        'apple_link' => 'Ссылка на лаунчер для Apple',
+        'linux_link' => 'Ссылка на лаунчер для Linux',
+        'image-shop-1' => 'URL изображения 1',
+        'image-shop-2' => 'URL изображения 2',
+        'image-shop-3' => 'URL изображения 3',
+        'youtube_link' => 'Youtube Video - (Поместите последние 11 символов ссылки)',
+        'discord_id' => 'Discord Server - (Server ID)',
+        'twitter_name' => 'Twitter name - (ваше имя в твиттере)',
+        'footer_description' => 'Описание "О нас"',
+        'footer_article' => 'Описание "Дополнительно"',
+        'footer_links' => 'Ссылки нижнего колонтитула',
+    ],
+    'links' => [
+        'twitter' => 'Twitter',
+        'youtube' => 'YouTube',
+        'discord' => 'Discord',
+        'steam' => 'Steam',
+        'teamspeak' => 'TeamSpeak',
+        'instagram' => 'Instagram',
+        'twitch' => 'Twitch',
+        'facebook' => 'Facebook',
+    ],
+    'colors' => [
+        'red' => 'Red',
+        'blue' => 'Blue',
+        'green' => 'Green',
+        'purple' => 'Purple',
+        'orange' => 'Orange',
+        'yellow' => 'Yellow',
+        'aqua' => 'Aqua',
+        'pink' => 'Pink',
+    ],
+    'play' => 'Play',
+    'launcher' => 'Скачать лаунчер',
+    'close' => 'Закрыть',
+];
