@@ -1,6 +1,6 @@
 # Translations 
 <s>You can contribute to translating Azuriom on our [Crowdin](https://translate.azuriom.com/).</s> <br>
-Due to the fact that [Crowdin](https://translate.azuriom.com/) does not work, I publish Russian localization on GitHub
+I do not know if the final translation on the [Crowdin](https://translate.azuriom.com/), but the one that is, is not complete. So I publish Russian localization on GitHub
 # CMS
 Navbar: &#9989;<br>
 Profile &#9989;<br>
