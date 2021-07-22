@@ -32,7 +32,7 @@ To install localization, move the .zip file to ``resources/themes/THEME/lang`` a
 Argon &#10060;<br>
 Aurora &#10060;<br>
 Carbon &#10060;<br>
-Environ &#10060;<br>
+Environ &#9989;<br>
 Oasis &#9989;<br>
 Prism &#10060;<br>
 Theme-gmod &#10060;<br>
