@@ -13,17 +13,17 @@ To install localization, move the .zip file to ``plugins/PLUGIN/resources/lang``
 Plugins:<br>
 Advancedban &#10060;<br>
 Changelog &#10060;<br>
-Cps &#10060;<br>
+Cps &#9989;<br>
 Dedipasspayment &#10060;<br>
-Faq &#10060;<br>
-Litebans &#10060;<br>
+Faq &#9989;<br>
+Litebans &#9989;<br>
 Locklogin &#10060;<br>
 Marketing &#10060;<br>
 Newsletter &#10060;<br>
 Paysafecardmanual &#10060;<br>
 Shop &#9989;<br>
 Skin-api &#9989;<br>
-Support &#10060;<br>
+Support &#9989;<br>
 Vote &#10060;<br>
 Wiki &#10060;<br>
 <br>
@@ -52,17 +52,17 @@ Theme-gmod &#10060;<br>
 Плагины:<br>
 Advancedban &#10060;<br>
 Changelog &#10060;<br>
-Cps &#10060;<br>
+Cps &#9989;<br>
 Dedipasspayment &#10060;<br>
-Faq &#10060;<br>
-Litebans &#10060;<br>
+Faq &#9989;<br>
+Litebans &#9989;<br>
 Locklogin &#10060;<br>
 Marketing &#10060;<br>
 Newsletter &#10060;<br>
 Paysafecardmanual &#10060;<br>
 Shop &#9989;<br>
 Skin-api &#9989;<br>
-Support &#10060;<br>
+Support &#9989;<br>
 Vote &#10060;<br>
 Wiki &#10060;<br>
 <br>
