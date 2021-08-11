@@ -5,7 +5,7 @@ I do not know if the final translation on the [Crowdin](https://translate.azurio
 Navbar: &#9989;<br>
 Profile &#9989;<br>
 Admin dashboard &#9989;<br>
-To install localization, move the .zip file to ``resources\lang`` and unzip
+To install localization, move the .zip file to ``resources/lang`` and unzip
 
 # Results
 Resource translations ready:<br>
@@ -17,14 +17,13 @@ Cps &#9989;<br>
 Dedipasspayment &#10060;<br>
 Faq &#9989;<br>
 Litebans &#9989;<br>
-Locklogin &#10060;<br>
-Marketing &#10060;<br>
+Marketing &#9989;<br>
 Newsletter &#10060;<br>
 Paysafecardmanual &#10060;<br>
 Shop &#9989;<br>
 Skin-api &#9989;<br>
 Support &#9989;<br>
-Vote &#10060;<br>
+Vote &#9989;<br>
 Wiki &#10060;<br>
 <br>
 Themes: <br>
@@ -44,7 +43,7 @@ Theme-gmod &#10060;<br>
 Панель навигации &#9989;<br>
 Профиль &#9989;<br>
 Панель управления &#9989;<br>
-Для установки локализации, переместите .zip файл в ``resources\lang`` и распакуйте
+Для установки локализации, переместите .zip файл в ``resources/lang`` и распакуйте
 
 # Results
 Готовые переводы ресурсов:<br>
@@ -56,14 +55,13 @@ Cps &#9989;<br>
 Dedipasspayment &#10060;<br>
 Faq &#9989;<br>
 Litebans &#9989;<br>
-Locklogin &#10060;<br>
-Marketing &#10060;<br>
+Marketing &#9989;<br>
 Newsletter &#10060;<br>
 Paysafecardmanual &#10060;<br>
 Shop &#9989;<br>
 Skin-api &#9989;<br>
 Support &#9989;<br>
-Vote &#10060;<br>
+Vote &#9989;<br>
 Wiki &#10060;<br>
 <br>
 Темы: <br>
