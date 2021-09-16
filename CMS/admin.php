@@ -558,7 +558,7 @@ return [
         'subtitle-update' => 'Обновление доступно',
         'subtitle-no-update' => 'Нет доступных обновлений',
 
-        'update' => 'Версия <code>:last-version</code> Azuriom доступна, вы сипользуете версию <code>:version</code>.',
+        'update' => 'Версия <code>:last-version</code> Azuriom доступна, вы используете версию <code>:version</code>.',
         'download' => 'Последняя версия Азуриом готова к загрузке.',
         'install' => 'Последняя версия Azuriom загружена и готова к установке.',
 
