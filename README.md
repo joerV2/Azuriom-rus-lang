@@ -17,6 +17,7 @@ Cps &#9989;<br>
 Dedipasspayment &#10060;<br>
 Faq &#9989;<br>
 Litebans &#9989;<br>
+LockLogin &#9989;<br> To install, you need to replace the file in ``plugins/locklogin/resources/views/admin``
 Marketing &#9989;<br>
 Newsletter &#10060;<br>
 Paysafecardmanual &#10060;<br>
@@ -55,6 +56,7 @@ Cps &#9989;<br>
 Dedipasspayment &#10060;<br>
 Faq &#9989;<br>
 Litebans &#9989;<br>
+LockLogin &#9989;<br> Для установки нужно заменить файл в ``plugins/locklogin/resources/views/admin``
 Marketing &#9989;<br>
 Newsletter &#10060;<br>
 Paysafecardmanual &#10060;<br>
