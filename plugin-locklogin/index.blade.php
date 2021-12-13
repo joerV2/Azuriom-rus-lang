@@ -6,7 +6,7 @@
     <div class="card shadow mb-4">
         <div class="card-body">
             <p>Скачайте <a href="https://www.spigotmc.org/resources/gsa-locklogin.75156/" target="_blank">LockLogin</a></p>
-            <p>Скачайте модуль <a href="https://locklogin.eu/modules/">LockLoginSQL</a> для привязки к сайту</p>
+            <p>Скачайте модуль <a href="https://karmadev.es/locklogin/modules/sql/v4/LockLoginSQL.jar">LockLoginSQL</a> для привязки к сайту</p>
             <p>1 - Поместите LockLogin.jar на ваш сервер в папку plugins</p>
             <p>2 - Запустите свой сервер, чтобы LockLogin сгенерировал свои папки</p>
             <p>3 - Остановите сервер</p>
