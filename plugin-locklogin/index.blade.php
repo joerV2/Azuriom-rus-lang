@@ -16,7 +16,7 @@
                 Encryption: <br>
                    ‍    ‍ Passwords: '{{config('hashing.driver')}}' <br>
             </code><br>
-            <p>6 - Отредактируйте файл <code>/plugins/LockLogin/plugin/modules/LockLoginSQL.yml/config.yml</code> ( если вы используете legacy LockLogin: <code>plugins/LockLogin/modules/LockLoginSQL/config.yml</code> )<br>
+            <p>6 - Отредактируйте файл <code>/plugins/LockLogin/plugin/modules/LockLoginSQL/config.yml</code> ( если вы используете legacy LockLogin: <code>plugins/LockLogin/modules/LockLoginSQL/config.yml</code> )<br>
                ‍    ‍ <ins style="color: #1dc489; text-decoration: none; font-size: 19px">Убедитесь, что SemiPremium совпадает с типом вашей панели mc-online [ mc-online = true, mc-offline = false]<br>
                ‍    ‍ Тип панели: <ins style="color: #32a8a8; text-decoration: none">{{config('azuriom.game')}}</ins></ins></p><br>
             <code>
