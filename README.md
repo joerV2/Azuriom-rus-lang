@@ -34,6 +34,8 @@ Support &#9989;<br>
 Tebex &#9989;<br>
 Vote &#9989;<br>
 Wiki &#10060;<br>
+**v1.0.x**<br>
+Staff &#9989;<br>
 <br>
 Themes: <br>
 To install localization, move the .zip file to ``resources/themes/THEME/lang`` and unzip <br>
@@ -82,6 +84,8 @@ Support &#9989;<br>
 Tebex &#9989;<br>
 Vote &#9989;<br>
 Wiki &#10060;<br>
+**v1.0.x**<br>
+Staff &#9989;<br>
 <br>
 Темы: <br>
 Для установки локализации, переместите .zip файл в ``resources/themes/ТЕМА/lang`` и распакуйте <br>
