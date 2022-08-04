@@ -1,7 +1,7 @@
 # Translations EN
 <s>You can contribute to translating Azuriom on our [Crowdin](https://translate.azuriom.com/).</s> <br>
 I do not know if the final translation on the [Crowdin](https://translate.azuriom.com/), but the one that is, is not complete(was relevant for v0.5.1). So I publish Russian localization on GitHub<br>
-All themes and plugins did not change their localization structure, so the translations that worked for 0.5.1 will work on 1.0.x, BUT the CMS will not work, use the original one from the creators of Azuriom.
+Most themes and plugins have not changed their localization structure, so translations that worked for 0.5.1 will work on 1.0.x as well (does not apply to plugins that have a localization version for 1.0.x), BUT the CMS will not work, use the original one from the creators of Azuriom.
 
 # CMS
 **v0.5.1**<br>
@@ -51,7 +51,7 @@ Theme-gmod &#10060;<br>
 # Переводы RU 
 <s>Вы можете внести свой вклад в перевод Azuriom на нашем сайте [Crowdin](https://translate.azuriom.com/).</s> <br>
 Я не знаю, является ли окончательным перевод на [Crowdin](https://translate.azuriom.com/), но тот, который есть, не завершен(было актуально для v0.5.1). Поэтому, я опубликую русскую локализацию на GitHub<br>
-Все темы и плагины не меняли свою структуру локализации, поэтому переводы работавшие для 0.5.1 будут работать и на 1.0.х, НО CMS не будет работать, используйте оригинальный от создателй Azuriom.
+Большинство тем и плагинов не меняли свою структуру локализации, поэтому переводы работавшие для 0.5.1 будут работать и на 1.0.х(не относится к плагинам имеющим версию локализации для 1.0.x), НО CMS не будет работать, используйте оригинальный от создателй Azuriom.
 
 # CMS
 **v0.5.1**<br>
