@@ -105,7 +105,7 @@ return [
 
     'profile' => [
         'payments' => 'Ваши платежи',
-        'money' => 'Деньги: :balance',
+        'money' => 'Баланс: :balance',
     ],
 
     'giftcards' => [
